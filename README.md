@@ -1,74 +1,54 @@
-# Spacebook
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/68791233-b2d6-4a86-8c42-e654e112a157/deploy-status)](https://app.netlify.com/sites/spacebook-app/deploys)
+# Businessaire Game Rules
 
-Create your own spacebook and customize it to your needs. Spacebooks are speedy to set up, free, and 100% open source. Spacebooks are modern notebooks you can use to create documentation, sketch out new ideas, build a simple website, or whatever suits your fancy. 
+Welcome to the official rules site for Businessaire - the exciting entrepreneurship board game!
 
----
+On this site, you'll find comprehensive explanations of how to play Businessaire, including:
 
-<p align="center">
-<strong><big>Demo and documentation:</big></strong><br /> 
-</p>
+-   Game overview and goal
+-   Board setup
+-   Gameplay elements
+-   Player movement
+-   Winning conditions
+-   Tips and strategy guide
 
-<p align="center">
-<strong>https://spacebook.app</strong> <br />
-</>
+Everything you need to know to play Businessaire is right here. Whether you've never played before or just need a refresher, these pages aim to provide clear, easy-to-understand rules so you can start playing Businessaire as soon as possible.
 
-<p align="center">
-🙋 💥 👩🏽‍🚀 🚀 👨‍🚀 🛰️
-</p>
+This site was built using [Spacebook](https://spacebook.app/), an open source toolkit for creating simple documentation websites using Markdown.
 
----
+## Navigation
+
+Use the left sidebar to navigate between rules pages. On mobile, this becomes a hamburger menu that can be tapped to expand the sidebar.
+
+The main sections are:
+
+-   [Home](https://claude.ai/chat/index.md)  - This page
+-   [Full Rules](https://claude.ai/chat/full-rules.md)  - Comprehensive gameplay explanations
+-   [Setup](https://claude.ai/chat/setup.md)  - How to prepare the game
+-   [Gameplay](https://claude.ai/chat/gameplay.md)  - Details on core gameplay elements
+-   [Winning](https://claude.ai/chat/winning.md)  - Requirements to win the game
+-   [Strategy Guide](https://claude.ai/chat/strategy.md)  - Tips to improve your chances
+
+Click any link above to jump directly to that page. Use the responsive sidebar or header links to move between pages.
 
 ## Contributing
 
-If you want to contribute or make fixes to spacebook, it is best to fork this repository directly and submit pull requests against it. If you spot a typo on the demo/documentation site, you can also open a fork directly from the edit button on the top of each page.
+Spot an error or want to help improve the site? This site is hosted on GitHub where you can [report issues](https://github.com/username/reponame/issues) or directly submit fixes via pull requests.
 
-## Install spacebook
+The content is written in markdown files that can be edited like any text document. Changes will rebuild and deploy the site automatically.
 
-If you want to quickly install for local testing follow the instructions below:
+Let's work together to provide the best possible Businessaire rules resource for players worldwide!
 
-### Requirements
+## About Businessaire
 
-You must be running **Node version 12 or higher** due to the Tailwind 2.0 release. I recommend using NVM to easily manage your Node versions if you need to switch back and forth between older versions.
+Businessaire is an entertaining board game that...
 
-- [Node](https://nodejs.org/)
-- [NVM](https://github.com/nvm-sh/nvm) (optional)
+(Short about section summarizing the game, how many players, components, goals, etc.)
 
-**To find your current node version:**
+## Other Resources
 
-```
-node --version
-```
+-   [Official Businessaire Website](https://businessaire.com/)  - Main site for the game
+-   [Purchase Businessaire](https://businessaire.com/purchase)  - Buy the physical board game
+-   [Contact the Publisher](https://businessaire.com/contact)  - Get in touch with questions
 
-### Step one
-
-```
-git clone https://github.com/broeker/spacebook
-```
-
-### Step two
-
-Install the site and run an initial build command:
-
-```
-cd spacebook
-
-npm install
-
-npm run build (only necessary the first time!)
-```
-
-_If you get errors here, double check your node version!_
-
-### Step three
-
-Now spin up your local server to see your site!
-
-```
-npm run start
-```
-
-This command will start a local server and you'll be able to work on your site with hot reloads and some nice Browsersync features. 💥
-
---- 
+Check out the official Businessaire site for more info and to purchase the board game!          

@@ -22,12 +22,12 @@ Use the left sidebar to navigate between rules pages. On mobile, this becomes a 
 
 The main sections are:
 
--   [Home](https://claude.ai/chat/index.md)  - This page
--   [Full Rules](https://claude.ai/chat/full-rules.md)  - Comprehensive gameplay explanations
--   [Setup](https://claude.ai/chat/setup.md)  - How to prepare the game
--   [Gameplay](https://claude.ai/chat/gameplay.md)  - Details on core gameplay elements
--   [Winning](https://claude.ai/chat/winning.md)  - Requirements to win the game
--   [Strategy Guide](https://claude.ai/chat/strategy.md)  - Tips to improve your chances
+-   [Home](https://rules.fortheculturegames.com/index.md)  - This page
+-   [Full Rules](https://rules.fortheculturegames.com/full-rules.md)  - Comprehensive gameplay explanations
+-   [Setup](https://rules.fortheculturegames.com/setup.md)  - How to prepare the game
+-   [Gameplay](https://rules.fortheculturegames.com/gameplay.md)  - Details on core gameplay elements
+-   [Winning](https://rules.fortheculturegames.com/winning.md)  - Requirements to win the game
+-   [Strategy Guide](https://rules.fortheculturegames.com/strategy.md)  - Tips to improve your chances
 
 Click any link above to jump directly to that page. Use the responsive sidebar or header links to move between pages.
 

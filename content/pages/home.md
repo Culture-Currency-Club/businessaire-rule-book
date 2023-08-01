@@ -1,17 +1,30 @@
 ---
-title: Hello, world.
-date: Last Modified 
+title: Businessaire Game Rules
+date: Last Modified
 permalink: /
 eleventyNavigation:
-  key: Hello 
+  key: Home
   order: 0
-  title: Hello, world.
+  title: Home
 ---
-You have successfully launched your spacebook. If you are new here, you may want to [read the docs](https://spacebook.app/) for tips and tricks on setting up your project.
 
-![Hello, world](/content/images/hello.jpg)
+# Welcome to the Businessaire Rules Site!
 
-->*Onward...*<-
+You've found the official rules and gameplay guide for Businessaire - the fun entrepreneurial board game. 
 
+![Businessaire Board](/images/board.jpg)
 
+Whether you've never played before or just need a refresher, this site aims to provide comprehensive, easy-to-understand rules so you can start playing Businessaire as soon as possible. 
 
+Use the sidebar to navigate between pages explaining:
+
+- Game Overview
+- Board Setup
+- Player Movement  
+- Core Gameplay Elements
+- Winning Conditions
+- Strategy and Tips
+
+Everything you need to know is right here. Let's get started!
+
+->*Onward to the [Full Rules](/full-rules)*<-

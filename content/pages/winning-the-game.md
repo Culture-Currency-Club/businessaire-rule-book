@@ -8,7 +8,6 @@ eleventyNavigation:
   title: Winning the Game
 ---
 
-# Winning the Game
 
 To win Businessaire, a player must be the first to reach a predetermined net worth amount, usually $200,000.
 

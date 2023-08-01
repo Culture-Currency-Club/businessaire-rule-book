@@ -7,7 +7,6 @@ eleventyNavigation:
   order: 2
   title: Board Setup  
 ---
-# Board Setup
 
 ## Setup
 

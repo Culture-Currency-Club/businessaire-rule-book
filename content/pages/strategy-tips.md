@@ -8,7 +8,6 @@ eleventyNavigation:
   title: Strategy Tips
 ---
 
-# Strategy Tips
 
 Here are some tips to improve your chances of winning Businessaire:
 

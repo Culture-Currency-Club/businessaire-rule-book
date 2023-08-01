@@ -8,8 +8,6 @@ eleventyNavigation:
   title: Game Overview 
 ---
 
-# Businessaire Game Overview
-
 Businessaire is an entertaining board game for 2-4 players that combines elements of luck and strategy as you compete to build the most successful business empire. 
 
 ## Object of the Game

@@ -8,8 +8,6 @@ eleventyNavigation:
   title: Core Gameplay Elements
 ---
 
-## Gameplay Elements
-
 1. ### Quick Businesses
    Purchase these low-cost starter businesses located around the board to earn money when their unique number is rolled:
    

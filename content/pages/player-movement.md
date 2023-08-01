@@ -7,9 +7,6 @@ eleventyNavigation:
   order: 3
   title: Player Movement  
 ---
-# Player Movement
-
-## Player Movement
 
 On a player's turn, they must move their game piece around the board following these rules:
 

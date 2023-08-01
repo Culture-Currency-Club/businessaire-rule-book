@@ -27,4 +27,4 @@ Use the sidebar to navigate between pages explaining:
 
 Everything you need to know is right here. Let's get started!
 
-->*Onward to the [Full Rules](/full-rules)*<-
+->*Onward to the [Game Overview](/game-overview)*<-

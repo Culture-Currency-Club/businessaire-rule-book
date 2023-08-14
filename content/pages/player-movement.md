@@ -10,9 +10,27 @@ eleventyNavigation:
 
 On a player's turn, they must move their game piece around the board following these rules:
 
-1. ### Starting Position
+1. ### Starting Off
 
-   All players start with their game pieces in the center "Corporate America" space. On their first turn, players must move their piece down one of the 8 colored columns (called Districts) radiating out from the center.
+-   All players start with their game piece in the center Corporate America space.
+    
+-   The first player is chosen based on the orientation of the board:
+    
+    -   The green Businessaire street sign in the center indicates the orientation.
+    -   With the sign upright, North is the Purple District and South is the Orange District.
+-   Turn order proceeds clockwise from the starting player based on the pieces' positions.
+    
+-   On your first turn, you must move your piece down one of the 8 colored columns (Districts) radiating out from the center space.
+    
+-   You can choose which District column to start in. Common choices:
+    
+    -   Move down the district you have a Quick Business in
+    -   Move down a district you need a space from for your strategy
+    -   Move down the district that has the most unowned businesses
+-   Once all players have moved from the center, gameplay proceeds with players taking turns rolling dice and moving around the board.
+    
+
+The card decks and money should already be set up around the board before starting off. Players choose their piece and the banker is chosen randomly. Then the starting orientation is set and players take their first move!
 
 2. ### Roll Dice
 

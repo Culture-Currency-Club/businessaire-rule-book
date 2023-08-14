@@ -87,6 +87,32 @@ eleventyNavigation:
    Invest in Brick & Mortar businesses from the Business List for quarterly profit checks when their District number is rolled.
    
    - **All businesses listed on Business List card** - Purchase on Street space to collect checks.
+   -   There are 32 Brick & Mortar businesses listed on the Business List card
+    
+-   To open one:
+    
+    -   Pay the investment amount listed on the Business List to the bank
+    -   Must be on a Street space with equal or higher value
+    -   Gain the business' Articles of Organization card and place business chip
+-   Opening a business gains you net worth equal to its value:
+    
+    -   Green businesses = 25K net worth
+    -   Red businesses = 50K net worth
+    -   Silver businesses = 75K net worth
+    -   Blue businesses = 100K net worth
+-   A Street space locks when a business is opened on it
+    
+-   Roll the District number to earn quarterly profit checks:
+    
+    -   25K businesses earn 20K checks
+    -   50K businesses earn 30K checks
+    -   75K businesses earn 40K checks
+    -   100K businesses earn 50K checks
+-   If multiple businesses in a District, earn highest check + $10K per other
+    
+-   Pay $500 per business when you roll 2 for taxes
+    
+-   Pay $1,000 per business when you roll 3 for overhead
 
 6. ### Doubles Business Cards
    Purchase a Doubles Business to earn money when that double is rolled.

@@ -48,7 +48,7 @@ eleventyNavigation:
         -   **No Profit**  - Get back only the cost amount
         -   **Stolen Products**  - Lose the cost amount
     -   Collect your total sale value from the bank
-Note the following:  
+  
 -   You can carry a maximum of 3 Product Cards
     
 -   You can combine products from multiple Product Cards

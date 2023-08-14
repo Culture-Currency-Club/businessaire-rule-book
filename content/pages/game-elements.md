@@ -66,3 +66,25 @@ eleventyNavigation:
    - **Event Promoter** - Purchase for $2,000, earn on double 3s.
    - **Stadium Vendor** - Purchase for $2,000, earn on double 4s.
    - **Dump Truck** - Purchase for $2,000, earn on double 5s.
+
+7. ### Going to Jail
+
+Landing on certain spaces or drawing some Street Risk cards can send you to jail:
+
+-   To get out of jail immediately, pay $5,000 bail on your next turn after going to jail.
+  
+-   If you do not pay bail, you must remain in jail for 2 turns.
+    
+-   On the 3rd turn in jail, you get released automatically.
+    
+-   While in jail:
+    
+    -   You cannot collect any money from spaces, cards, businesses etc.
+    -   You cannot buy/sell any businesses or properties
+    -   You must roll doubles to get out of jail early before 3 turns are up.
+-   Paying bail allows you to get out 1 turn earlier than waiting 3 turns.
+    
+-   If you roll doubles on a turn, but get sent to jail later in the same turn, the doubles do not apply towards getting out of jail.
+    
+
+Going to jail can quickly set you back in the game if you don't have enough cash reserves or business income to sustain you. Play smart and conservatively when low on funds to avoid getting caught unprepared in jail!

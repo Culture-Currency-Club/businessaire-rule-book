@@ -20,11 +20,40 @@ eleventyNavigation:
    - **Moon Bounce** - Pay $2,500 to purchase. Collect or pay $4,000 when 9 is rolled.
    - **Horse Racing** - Pay $3,000 to purchase. Collect or pay $5,000 when 8 is rolled.
 
-2. ### Community Spaces
+2. ### Community Spaces & Selling Products
    Sell products from Supplier cards at the Pop-Up Shop and Farmers Market community spaces in each District of the board.
    
    - **Pop-Up Shop** - Place product's cost on space, roll die for profit multiplier, collect total from bank.
    - **Farmers Market** - Place product's cost on space, roll die for profit multiplier, collect total from bank.
+
+-   When on a Community space, you can sell products from your Product cards:
+    
+    -   You can sell 1 line of products, or multiple lines combined
+    -   Maximum of 5 product lines can be sold per turn
+-   To sell 1 product line:
+    
+    -   Announce the wholesale cost and product you are selling
+    -   Example: "I'm selling $1,000 of smart watches in Roland Park"
+-   To sell multiple products:
+    
+    -   Add up the wholesale costs and announce the total along with each product
+    -   Example: "I'm selling $1,000 of smart watches and $1,500 of smartphones for a total of $2,500 in Mount Washington"
+    -   Place the total cost amount on the Community space
+        
+    -   Roll the Product Die to determine your profit:
+        
+        -   **Double**  - Double your money (2x profit)
+        -   **Triple**  - Triple your money (3x profit)
+        -   **$10,000**  - Earn flat $10,000 profit
+        -   **No Profit**  - Get back only the cost amount
+        -   **Stolen Products**  - Lose the cost amount
+    -   Collect your total sale value from the bank
+Note the following:  
+-   You can carry a maximum of 3 Product Cards
+    
+-   You can combine products from multiple Product Cards
+    
+-   You must have enough cash on hand equal to the total cost amount you are selling
 
 3. ### Business Venture Cards
    Draw a Business Venture card for a chance to earn or lose money on risky side business ideas.

@@ -20,7 +20,29 @@ eleventyNavigation:
    - **Moon Bounce** - Pay $2,500 to purchase. Collect or pay $4,000 when 9 is rolled.
    - **Horse Racing** - Pay $3,000 to purchase. Collect or pay $5,000 when 8 is rolled.
 
-2. ### Community Spaces & Selling Products
+
+2. ### Supplier Spaces & Product Cards
+
+-   Supplier Spaces let you gain Product Cards to sell items at Community Spaces
+    
+-   To get a Product Card:
+    
+    -   Pay $500 shipping when landing on a Supplier Space
+    -   Draw 3 Product Cards, pick 1 to keep and return the other 2
+-   Product Cards list products with wholesale prices that can be sold
+    
+-   Each card also has Business Savvy points to earn reward cards
+    
+-   Players can carry up to 3 Product Cards at a time
+    
+-   When selling at a Community Space:
+    
+    -   Sell up to 5 products from your Product Card(s)
+    -   Announce total wholesale cost of products being sold
+    -   Roll Product Die to determine profit multiplier
+    -   Collect sale value from bank
+
+3. ### Community Spaces & Selling Products
    Sell products from Supplier cards at the Pop-Up Shop and Farmers Market community spaces in each District of the board.
    
    - **Pop-Up Shop** - Place product's cost on space, roll die for profit multiplier, collect total from bank.
@@ -55,7 +77,7 @@ eleventyNavigation:
     
 -   You must have enough cash on hand equal to the total cost amount you are selling
 
-3. ### Business Venture Cards
+4. ### Business Venture Cards
    Draw a Business Venture card for a chance to earn or lose money on risky side business ideas.
    
    - **Startup Website Business** - Low risk, low reward business idea.
@@ -69,7 +91,7 @@ eleventyNavigation:
    - **Freelance Gig** - One-time freelance work with flexible income.
    - **eCommerce Store** - Start an online retail business.
 
-4. ### Street Risk Cards
+5. ### Street Risk Cards
    Attempt illegal activities for a chance at big rewards but with the risk of fines or jail time if caught.
    
    - **Run an Illegal Poker Game** - Host underground poker games for cash.
@@ -83,7 +105,7 @@ eleventyNavigation:
    - **Corporate Espionage** - Spy on competitors to steal secrets.
    - **Blackmail a CEO** - Threaten to expose secrets for hush money.
 
-5. ### Brick & Mortar Businesses
+6. ### Brick & Mortar Businesses
    Invest in Brick & Mortar businesses from the Business List for quarterly profit checks when their District number is rolled.
    
    - **All businesses listed on Business List card** - Purchase on Street space to collect checks.
@@ -114,7 +136,7 @@ eleventyNavigation:
     
 -   Pay $1,000 per business when you roll 3 for overhead
 
-6. ### Doubles Business Cards
+7. ### Doubles Business Cards
    Purchase a Doubles Business to earn money when that double is rolled.
    
    - **Food Truck** - Purchase for $2,000, earn on double 2s.
@@ -123,7 +145,7 @@ eleventyNavigation:
    - **Dump Truck** - Purchase for $2,000, earn on double 5s.
 
 
-7. ### Paying Debt
+8. ### Paying Debt
 
 -   If a player cannot pay a debt, they have two options:
     
@@ -144,7 +166,7 @@ eleventyNavigation:
     -   They cannot buy or sell any businesses/properties
 -   Players can earn other income while in the center space to help pay off debt faster
 
-8. ### Going to Jail
+9. ### Going to Jail
 
 Landing on certain spaces or drawing some Street Risk cards can send you to jail:
 
@@ -166,7 +188,7 @@ Landing on certain spaces or drawing some Street Risk cards can send you to jail
 
 Going to jail can quickly set you back in the game if you don't have enough cash reserves or business income to sustain you. Play smart and conservatively when low on funds to avoid getting caught unprepared in jail!
 
-9. ### Lifestyle Expenses
+10. ### Lifestyle Expenses
 
 -   When a double 6 is rolled (rolling a 12 total), each player must pay a $1,000 lifestyle expense to the bank.
 -   This represents luxury purchases and other extras that come with success.

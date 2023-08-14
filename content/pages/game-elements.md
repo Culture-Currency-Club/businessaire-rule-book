@@ -122,7 +122,29 @@ eleventyNavigation:
    - **Stadium Vendor** - Purchase for $2,000, earn on double 4s.
    - **Dump Truck** - Purchase for $2,000, earn on double 5s.
 
-7. ### Going to Jail
+
+7. ### Paying Debt
+
+-   If a player cannot pay a debt, they have two options:
+    
+    1.  Liquidate businesses and assets to generate funds
+    2.  Go to the Corporate America space and forfeit $1,000 per turn (more with certain Business Savvy cards) until the debt is fully repaid
+-   The owed amount is placed under the player's piece in the center space
+    
+-   The bank initially pays the owed amount to the creditor
+    
+-   On their turns, the debtor removes money from under their piece and pays it to the bank to repay the debt
+    
+-   Once repaid, the player can move off the Corporate America space
+    
+-   While in debt:
+    
+    -   $1,000 is removed per turn (unless a Business Savvy card allows more)
+    -   The player cannot collect any money
+    -   They cannot buy or sell any businesses/properties
+-   Players can earn other income while in the center space to help pay off debt faster
+
+8. ### Going to Jail
 
 Landing on certain spaces or drawing some Street Risk cards can send you to jail:
 
@@ -144,7 +166,7 @@ Landing on certain spaces or drawing some Street Risk cards can send you to jail
 
 Going to jail can quickly set you back in the game if you don't have enough cash reserves or business income to sustain you. Play smart and conservatively when low on funds to avoid getting caught unprepared in jail!
 
-8. ### Lifestyle Expenses
+9. ### Lifestyle Expenses
 
 -   When a double 6 is rolled (rolling a 12 total), each player must pay a $1,000 lifestyle expense to the bank.
 -   This represents luxury purchases and other extras that come with success.

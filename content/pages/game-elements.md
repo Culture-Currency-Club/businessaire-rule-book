@@ -143,3 +143,9 @@ Landing on certain spaces or drawing some Street Risk cards can send you to jail
     
 
 Going to jail can quickly set you back in the game if you don't have enough cash reserves or business income to sustain you. Play smart and conservatively when low on funds to avoid getting caught unprepared in jail!
+
+8. ### Lifestyle Expenses
+
+-   When a double 6 is rolled (rolling a 12 total), each player must pay a $1,000 lifestyle expense to the bank.
+-   This represents luxury purchases and other extras that come with success.
+-   Make sure you have enough cash reserve to cover these lifestyle costs if you roll doubles 6's!

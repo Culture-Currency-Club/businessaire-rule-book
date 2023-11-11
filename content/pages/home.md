@@ -12,7 +12,7 @@ eleventyNavigation:
 
 You've found the official rules and gameplay guide for Businessaire - the fun entrepreneurial board game. 
 
-![Businessaire Board](/images/board.jpg)
+![Businessaire Board](/ioard.jpg)
 
 Whether you've never played before or just need a refresher, this site aims to provide comprehensive, easy-to-understand rules so you can start playing Businessaire as soon as possible. 
 

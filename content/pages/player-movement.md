@@ -61,4 +61,4 @@ The card decks and money should already be set up around the board before starti
    - Cannot move diagonally or count the same space twice
    - Direction can be changed during the move  
    - Must move down a column when starting or in the center space
-->*Next: [Player Movement](/player-movement)*<-
+->*Next: [Gameplay Elements](/game-elements)*<-

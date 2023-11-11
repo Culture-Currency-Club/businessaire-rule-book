@@ -787,6 +787,42 @@ nav ul li a.active {
   color: rgba(156, 163, 175, var(--tw-text-opacity));
 }
 
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (min-width: 640px) {
+  .container {
+    max-width: 640px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 768px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1024px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+@media (min-width: 1536px) {
+  .container {
+    max-width: 1536px;
+  }
+}
+
 .prose {
   color: #374151;
   max-width: 100%;
@@ -1732,6 +1768,11 @@ nav ul li a.active {
   border-color: rgba(31, 41, 55, var(--tw-border-opacity)) !important;
 }
 
+.bg-black {
+  --tw-bg-opacity: 1 !important;
+  background-color: rgba(0, 0, 0, var(--tw-bg-opacity)) !important;
+}
+
 .bg-white {
   --tw-bg-opacity: 1 !important;
   background-color: rgba(255, 255, 255, var(--tw-bg-opacity)) !important;
@@ -1832,6 +1873,11 @@ nav ul li a.active {
   padding-bottom: 0.5rem !important;
 }
 
+.py-6 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+
 .pt-0 {
   padding-top: 0px !important;
 }
@@ -1876,6 +1922,10 @@ nav ul li a.active {
   padding-left: 1rem !important;
 }
 
+.text-center {
+  text-align: center !important;
+}
+
 .text-xs {
   font-size: 0.75rem !important;
   line-height: 1rem !important;
@@ -1894,6 +1944,16 @@ nav ul li a.active {
 .text-xl {
   font-size: 1.25rem !important;
   line-height: 1.75rem !important;
+}
+
+.text-2xl {
+  font-size: 1.5rem !important;
+  line-height: 2rem !important;
+}
+
+.text-4xl {
+  font-size: 2.25rem !important;
+  line-height: 2.5rem !important;
 }
 
 .font-normal {
@@ -1936,6 +1996,11 @@ nav ul li a.active {
 .text-gray-100 {
   --tw-text-opacity: 1 !important;
   color: rgba(243, 244, 246, var(--tw-text-opacity)) !important;
+}
+
+.text-gray-300 {
+  --tw-text-opacity: 1 !important;
+  color: rgba(209, 213, 219, var(--tw-text-opacity)) !important;
 }
 
 .text-gray-400 {

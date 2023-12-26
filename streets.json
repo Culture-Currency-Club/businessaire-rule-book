@@ -1,0 +1,130 @@
+[
+    {
+      "street": "Howard Street",
+      "filename": "howard_street.png"
+    },
+    {
+      "street": "W. Baltimore Street",
+      "filename": "w_baltimore_street.png"
+    },
+    {
+      "street": "Frederick Avenue",
+      "filename": "frederick_avenue.png"
+    },
+    {
+      "street": "Cashland",
+      "filename": "cashland.png"
+    },
+    {
+      "street": "S. President Street",
+      "filename": "s_president_street.png"
+    },
+    {
+      "street": "Pratt Street",
+      "filename": "pratt_street.png"
+    },
+    {
+      "street": "Light Street",
+      "filename": "light_street.png"
+    },
+    {
+      "street": "Patapsco Avenue",
+      "filename": "patapsco_avenue.png"
+    },
+    {
+      "street": "E. Fayette Street",
+      "filename": "e_fayette_street.png"
+    },
+    {
+      "street": "Boston Street",
+      "filename": "boston_street.png"
+    },
+    {
+      "street": "N. Baltimore Street",
+      "filename": "n_baltimore_street.png"
+    },
+    {
+      "street": "Eastern Avenue",
+      "filename": "eastern_avenue.png"
+    },
+    {
+      "street": "Erdman Avenue",
+      "filename": "erdman_avenue.png"
+    },
+    {
+      "street": "E. Monument Street",
+      "filename": "e_monument_street.png"
+    },
+    {
+      "street": "Greenmount Avenue",
+      "filename": "greenmount_avenue.png"
+    },
+    {
+      "street": "Greenmount Avenue",
+      "filename": "greenmount_avenue.png"
+    },
+    {
+      "street": "Harford Road",
+      "filename": "harford_road.png"
+    },
+    {
+      "street": "York Road",
+      "filename": "york_road.png"
+    },
+    {
+      "street": "Loch Raven Boulevard",
+      "filename": "loch_raven_boulevard.png"
+    },
+    {
+      "street": "Pennsylvania Avenue",
+      "filename": "pennsylvania_avenue.png"
+    },
+    {
+      "street": "W. 25th St.",
+      "filename": "w_25th_st.png"
+    },
+    {
+      "street": "W. North Avenue",
+      "filename": "w_north_avenue.png"
+    },
+    {
+      "street": "Belair Road",
+      "filename": "belair_road.png"
+    },
+    {
+      "street": "St. Paul Street",
+      "filename": "st_paul_street.png"
+    },
+    {
+      "street": "N. Charles Street",
+      "filename": "n_charles_street.png"
+    },
+    {
+      "street": "E. Cold Spring Lane",
+      "filename": "e_cold_spring_lane.png"
+    },
+    {
+      "street": "Falls Road",
+      "filename": "falls_road.png"
+    },
+    {
+      "street": "Park Heights Avenue",
+      "filename": "park_heights_avenue.png"
+    },
+    {
+      "street": "Reisterstown Road",
+      "filename": "reisterstown_road.png"
+    },
+    {
+      "street": "Liberty Heights Avenue",
+      "filename": "liberty_heights_avenue.png"
+    },
+    {
+      "street": "Garrison Boulevard",
+      "filename": "garrison_boulevard.png"
+    },
+    {
+      "street": "Edmondson Avenue",
+      "filename": "edmondson_avenue.png"
+    }
+  ]

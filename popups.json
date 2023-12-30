@@ -1,0 +1,13 @@
+[
+    {"space": "Sandtown Farmer's Market", "filename": "sandtown_farmers_market.png"},
+    {"space": "Walbrook Pop-up Shop", "filename": "walbrook_pop_up_shop.png"},
+    {"space": "Edmondson Village Farmer's Market", "filename": "edmondson_village_farmers_market.png"},
+    {"space": "Westport Pop-up Market", "filename": "westport_pop_up_market.png"},
+    {"space": "Patterson Park Farmer's Market", "filename": "patterson_park_farmers_market.png"},
+    {"space": "Greenmount Pop-up Market", "filename": "greenmount_pop_up_market.png"},
+    {"space": "Belair-Edison Farmer's Market", "filename": "belair_edison_farmers_market.png"},
+    {"space": "Roland Park Pop-up", "filename": "roland_park_pop_up.png"},
+    {"space": "Mount Washington Farmer's Market and Pop-up Shop", "filename": "mount_washington_farmers_market_and_pop_up_shop.png"},
+    {"space": "Forest Park Pop-up Shop and Market", "filename": "forest_park_pop_up_shop_and_market.png"},
+    {"space": "Park Heights Pop-up Shop and Market", "filename": "park_heights_pop_up_shop_and_market.png"}
+]

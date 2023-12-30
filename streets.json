@@ -1,130 +1,130 @@
 [
     {
-      "street": "Howard Street",
+      "space": "Howard Street",
       "filename": "howard_street.png"
     },
     {
-      "street": "W. Baltimore Street",
+      "space": "W. Baltimore Street",
       "filename": "w_baltimore_street.png"
     },
     {
-      "street": "Frederick Avenue",
+      "space": "Frederick Avenue",
       "filename": "frederick_avenue.png"
     },
     {
-      "street": "Cashland",
+      "space": "Cashland",
       "filename": "cashland.png"
     },
     {
-      "street": "S. President Street",
+      "space": "S. President Street",
       "filename": "s_president_street.png"
     },
     {
-      "street": "Pratt Street",
+      "space": "Pratt Street",
       "filename": "pratt_street.png"
     },
     {
-      "street": "Light Street",
+      "space": "Light Street",
       "filename": "light_street.png"
     },
     {
-      "street": "Patapsco Avenue",
+      "space": "Patapsco Avenue",
       "filename": "patapsco_avenue.png"
     },
     {
-      "street": "E. Fayette Street",
+      "space": "E. Fayette Street",
       "filename": "e_fayette_street.png"
     },
     {
-      "street": "Boston Street",
+      "space": "Boston Street",
       "filename": "boston_street.png"
     },
     {
-      "street": "N. Baltimore Street",
+      "space": "N. Baltimore Street",
       "filename": "n_baltimore_street.png"
     },
     {
-      "street": "Eastern Avenue",
+      "space": "Eastern Avenue",
       "filename": "eastern_avenue.png"
     },
     {
-      "street": "Erdman Avenue",
+      "space": "Erdman Avenue",
       "filename": "erdman_avenue.png"
     },
     {
-      "street": "E. Monument Street",
+      "space": "E. Monument Street",
       "filename": "e_monument_street.png"
     },
     {
-      "street": "Greenmount Avenue",
+      "space": "Greenmount Avenue",
       "filename": "greenmount_avenue.png"
     },
     {
-      "street": "Greenmount Avenue",
+      "space": "Greenmount Avenue",
       "filename": "greenmount_avenue.png"
     },
     {
-      "street": "Harford Road",
+      "space": "Harford Road",
       "filename": "harford_road.png"
     },
     {
-      "street": "York Road",
+      "space": "York Road",
       "filename": "york_road.png"
     },
     {
-      "street": "Loch Raven Boulevard",
+      "space": "Loch Raven Boulevard",
       "filename": "loch_raven_boulevard.png"
     },
     {
-      "street": "Pennsylvania Avenue",
+      "space": "Pennsylvania Avenue",
       "filename": "pennsylvania_avenue.png"
     },
     {
-      "street": "W. 25th St.",
+      "space": "W. 25th St.",
       "filename": "w_25th_st.png"
     },
     {
-      "street": "W. North Avenue",
+      "space": "W. North Avenue",
       "filename": "w_north_avenue.png"
     },
     {
-      "street": "Belair Road",
+      "space": "Belair Road",
       "filename": "belair_road.png"
     },
     {
-      "street": "St. Paul Street",
+      "space": "St. Paul Street",
       "filename": "st_paul_street.png"
     },
     {
-      "street": "N. Charles Street",
+      "space": "N. Charles Street",
       "filename": "n_charles_street.png"
     },
     {
-      "street": "E. Cold Spring Lane",
+      "space": "E. Cold Spring Lane",
       "filename": "e_cold_spring_lane.png"
     },
     {
-      "street": "Falls Road",
+      "space": "Falls Road",
       "filename": "falls_road.png"
     },
     {
-      "street": "Park Heights Avenue",
+      "space": "Park Heights Avenue",
       "filename": "park_heights_avenue.png"
     },
     {
-      "street": "Reisterstown Road",
+      "space": "Reisterstown Road",
       "filename": "reisterstown_road.png"
     },
     {
-      "street": "Liberty Heights Avenue",
+      "space": "Liberty Heights Avenue",
       "filename": "liberty_heights_avenue.png"
     },
     {
-      "street": "Garrison Boulevard",
+      "space": "Garrison Boulevard",
       "filename": "garrison_boulevard.png"
     },
     {
-      "street": "Edmondson Avenue",
+      "space": "Edmondson Avenue",
       "filename": "edmondson_avenue.png"
     }
   ]
